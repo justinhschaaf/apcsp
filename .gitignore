@@ -1,0 +1,13 @@
+# Github Gitignore
+
+# Hide the AppLab source code location, just in case.
+# I couldn't find good details under what license this 
+# code is using, but the full source for the code.org
+# website is located at https://github.com/code-dot-org/code-dot-org
+
+# If there is any person who is better at sorting
+# through complex programs than I am and finds what
+# license the AppLab SRC is under, than please make
+# a pull and let me know! =)
+
+/applab
