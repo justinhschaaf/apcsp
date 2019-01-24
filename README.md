@@ -17,7 +17,7 @@ an exported project, I'm ignoring the directory where the files are stored (`/ap
 
 To acquire the code for yourself, I'd reccommend that you:
 
-1. Create a blank project on code.org's AppLab
+1. [Create a blank project on code.org's AppLab](https://studio.code.org/projects/applab/new)
 
 2. Go to Share > Show Advanced Options > Export and download the ZIP file.
 
@@ -26,3 +26,5 @@ To acquire the code for yourself, I'd reccommend that you:
 ## Included Projects
 
 - [JustinQuiz](/JustinQuiz), a simple quiz game created as my first APCSP project.
+
+- [ApplePicker](/ApplePicker), a simple quiz game created as my first APCSP project.
