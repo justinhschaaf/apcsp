@@ -1,3 +1,5 @@
+![JustinQuiz Home](thumbnail.png)
+
 # JustinQuiz
 
 JustinQuiz is a simple quiz game that I developed as my first project in APCSP.

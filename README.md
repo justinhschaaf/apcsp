@@ -27,4 +27,10 @@ To acquire the code for yourself, I'd reccommend that you:
 
 - [JustinQuiz](/JustinQuiz), a simple quiz game created as my first APCSP project.
 
-- [ApplePicker](/ApplePicker), a simple quiz game created as my first APCSP project.
+- [ApplePicker](/ApplePicker), a simple clicker game extended from a class demo.
+
+- [Beach Scene Example](/BeachSceneExample), a beach drawn by turtles.
+
+- [\[c\]chat](/[c]chat), a non-functional chat application.
+
+- [SMST](/SMST), a basic social media service which served as my APCSP Create Task.

@@ -1,3 +1,5 @@
+![Apple Picker Gameplay](thumbnail.png)
+
 # Apple Picker
 
 This is a simple clicker game that my class created one day by following our
